@@ -1,0 +1,15 @@
+Frontend -->  React + Redux Toolkit:
+	Screens -> Pages of Application
+	Slices -> Redux Slices (API slices used to call the Backend APIs)
+	Components -> Components for React
+	store -> Redux Store
+
+
+Backend --> NodeJS + Express + MongoDB:
+	Controllers -> Middleware functions for NodeJS and MongoDB using Mongoose
+	Middleware -> Middleware for the Express Backend
+	Models -> Models for Mongoose to connect to MongoDB database
+	Route -> Express Routes for the Backend APIs
+
+
+
